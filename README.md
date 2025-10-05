@@ -7,7 +7,7 @@ I've been an [FL Studio](https://www.image-line.com/fl-studio) user for over 25 
 
 Along the way, I've generated literally thousands of little snippets, melodies, song fragments.  Sometimes just idling, sometimes to learn and experiment with a new tool, VST, or feature, or sometimes just because.
 
-> *“The best way to get a good idea is to have a lot of ideas.” -Nobel Prize Laureate Linus Pauling*
+> *“The best way to get a good idea is to have a lot of ideas.” -Linus Pauling*
 
 Having them sit on my hard drive isn't all that useful to anybody (especially me), so I'd like to try something radical: _Share them with the world_, especially the FL Studio producer community.  I feel there are some great ideas hiding in here, but I just don't have the bandwidth or spark to fully develop them all.
 
