@@ -22,7 +22,7 @@ I hope you enjoy exploring these, and that you can find some inspiration in here
 
 # License
 
-I have placed the files under a **Creative Commons Attribution License** (full details here https://creativecommons.org/licenses/by/4.0/), which means you are free to use them any way you choose, including commercially.  You just have to give me credit and acknowledgement. 
+I have placed the files under a **Creative Commons Attribution License** (details here https://creativecommons.org/licenses/by/4.0/), which means you are free to use them any way you choose, including commercially.  You just have to give me credit and acknowledgement. 
 
 See LICENSE for full text.
 
