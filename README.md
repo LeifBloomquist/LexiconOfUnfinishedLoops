@@ -3,7 +3,7 @@
 
 This is an experiment.
 
-I've been an [FL Studio](https://www.image-line.com/fl-studio) user for over 25 years, and with it I've put together a few moderately successful albums (see [Bandcamp](https://schemafactor.bandcamp.com/) and [Spotify](https://open.spotify.com/artist/5wzWljjWgXBPQ9DhiRUqxp)), performed countless live gigs, and created numerous interactive art installations (and had a blast).
+I've been an [FL Studio](https://www.image-line.com/fl-studio) user for over 25 years, and with it I've put together a few moderately successful albums (see [Bandcamp](https://schemafactor.bandcamp.com/) and [Spotify](https://open.spotify.com/artist/5wzWljjWgXBPQ9DhiRUqxp)), performed countless [live gigs](https://schemafactor.com/videos/), and created numerous [interactive art installations](https://schemafactor.com/photos/) (and had a blast).
 
 Along the way, I've generated literally thousands of little snippets, melodies, song fragments.  Sometimes just idling, sometimes to learn and experiment with a new tool, VST, or feature, or sometimes just because.
 
@@ -33,7 +33,9 @@ Also, please let me hear anything you make from any of them!   I would love to h
 
 # Support
 
-Check out my [Bandcamp](https://schemafactor.bandcamp.com/) page and pick up some digital copies!  I'm also on [Spotify](https://open.spotify.com/artist/5wzWljjWgXBPQ9DhiRUqxp) for your streaming enjoyment.
+* Check out my [Bandcamp](https://schemafactor.bandcamp.com/) page and pick up some digital copies!
+* I'm also on [Spotify](https://open.spotify.com/artist/5wzWljjWgXBPQ9DhiRUqxp) for your streaming enjoyment.
+* If you're old-skool like me, a handful of physical CDs are avalable through the [shop](https://schemafactor.com/shop/)
 
 
 
