@@ -11,7 +11,7 @@ Along the way, I've generated literally thousands of little snippets, melodies, 
 
 Having them sit on my hard drive isn't all that useful to anybody (especially me), so I'd like to try something radical: _Share them with the world_, especially the FL Studio producer community.  I feel there are some great ideas hiding in here, but I just don't have the bandwidth or spark to fully develop them all.
 
-So, here they are.  25+ years' worth of ideas in FLP format, sorted by year, with their original names (which can be pretty random), except for tracks I have or am planning to release commercially.  Most are in the ebm/industrial/noise side of things, but there some occasional surprises.
+So, here they are ([browse](https://github.com/LeifBloomquist/LexiconOfUnfinishedLoops/tree/main/FL%20Studio%20Working) | [download](https://github.com/LeifBloomquist/LexiconOfUnfinishedLoops/archive/refs/heads/main.zip)).  25+ years' worth of ideas in FLP format, sorted by year, with their original names (which can be pretty random), except for tracks I have or am planning to release commercially.  Most are in the ebm/industrial/noise side of things, but there some occasional surprises.
 
 Please note that all third-party samples have been removed, as there's no way I could possibly sift through the licensing for each of them.  The sample names should be preserved though, you can often infer what kind of sound it was from the name, substitute your own!  Ditto for third-party VSTs, it will give you the name of the original plug-in.
 
