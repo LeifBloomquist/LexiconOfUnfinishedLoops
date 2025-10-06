@@ -24,7 +24,7 @@ I hope you enjoy exploring these, and that you can find some inspiration in here
 
 I have placed the files under a **Creative Commons Attribution License** (details here https://creativecommons.org/licenses/by/4.0/), which means you are free to use them any way you choose, including commercially.  You just have to give me credit and acknowledgement. 
 
-See LICENSE for full text.
+See [LICENSE](https://raw.githubusercontent.com/LeifBloomquist/LexiconOfUnfinishedLoops/refs/heads/main/LICENCE) for full text.
 
 Also, please let me hear anything you make from any of them!   I would love to hear it.
 
