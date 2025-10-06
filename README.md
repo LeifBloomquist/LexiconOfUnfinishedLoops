@@ -35,7 +35,7 @@ Also, please let me hear anything you make from any of them!   I would love to h
 
 * Check out my [Bandcamp](https://schemafactor.bandcamp.com/) page and pick up some digital copies!
 * I'm also on [Spotify](https://open.spotify.com/artist/5wzWljjWgXBPQ9DhiRUqxp) for your streaming enjoyment.
-* If you're old-skool like me, a handful of physical CDs are avalable through the [shop](https://schemafactor.com/shop/)
+* If you're old-skool like me, a handful of physical CDs are avalable through the [shop](https://schemafactor.com/shop/).
 
 
 
